@@ -67,7 +67,7 @@ const Resume = (props) => {
       title: "Oracle FCUBS API",
       duration: { fromDate: "2023", toDate: "2024" },
       description:
-        "I developed complex Flexcube API integrations to ensure seamless communication with banking services, including transaction posting for billers like MRA, DRTSS, ESCOM, and waterboards. I also handled account validation and creation, managed forex rate updates, and created APIs for bulk operations, such as standing orders, account class and branch transfers, and multiple account closures. ",
+        "I developed complex Flexcube API integrations to ensure seamless communication with banking services, including transaction posting and account creation",
       subHeading:
         "Tech Used: C# Web API, MSSQL,Swagger",
     },
@@ -83,7 +83,7 @@ const Resume = (props) => {
       title: "Multicsystems Website ",
       duration: { fromDate: "2022", toDate: "2023" },
       description:
-        "This is a start-up company that i got registered in 2019 that offers various services such web design and development, website hosting, domain name registration, graphic design and IT consultancy.",
+        "Registered company offering services such web design and development, website hosting, domain name registration, graphic design and IT consultancy.",
       subHeading: "Tech Used: WordPress, PHP, MySQL, Bootstrap.",
     },
     
@@ -131,7 +131,7 @@ const Resume = (props) => {
         />
         <div className="experience-description">
           <span className="resume-description-text">
-            Currently working as a Full Stack Software Engineer, Acting Enterprise Systems Architect
+            Full Stack Software Engineer, Acting Enterprise Systems Architect
           </span>
         </div>
         <div className="experience-description">
@@ -139,12 +139,7 @@ const Resume = (props) => {
             - One of the projects I am most proud of is the Core Banking System Migration at NBS Bank PLC, transitioning
             from T24 to the Oracle Flexcube System. As the technical lead on this project, I was responsible for developing
             the complex integration of all Flexcube Interfaces APIs to ensure seamless communication with banking
-            services. I designed the logic for posting transactions, which included handling billers such as MRA, DRTSS,
-            ESCOM, and all waterboard payments, as well as validating and creating accounts, and fetching and uploading
-            forex rates. Additionally, I worked on APIs to create bulk standing orders, transfer bulk account classes, transfer
-            bulk account branches, and close multiple accounts simultaneously. Another notable project I worked on was
-            developing a forex rates application that broadcasts daily forex rates across all branches and bureaus, providing
-            customers with up-to-date information as they enter the branches.
+            services. I designed the logic for posting transactions and creating accounts.
           </span>
           <br />
           <span className="resume-description-text">
